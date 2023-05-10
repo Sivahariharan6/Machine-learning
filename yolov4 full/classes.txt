@@ -1,0 +1,8 @@
+tomato_healthy
+tomato_Bacterial_spot
+potato_healthy
+pepper_bellbacterialspot
+pepper_bellhealthy
+tomato_leafmold
+tomato_blight
+w
